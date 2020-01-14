@@ -82,8 +82,6 @@ public class EmployeeWebClient {
 
 ### WebFlux Using Reactive WebSocket
 
-#### WebSocket Endpoint
-
 WebSocket Endpoint:
 ```
 ws://localhost:8080/employee-feed
