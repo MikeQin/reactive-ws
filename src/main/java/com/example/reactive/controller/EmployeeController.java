@@ -1,4 +1,4 @@
-package com.example.reactive.ws.controller;
+package com.example.reactive.controller;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

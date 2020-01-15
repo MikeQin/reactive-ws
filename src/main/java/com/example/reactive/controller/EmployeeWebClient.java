@@ -1,4 +1,4 @@
-package com.example.reactive.ws.controller;
+package com.example.reactive.controller;
 
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Flux;

@@ -1,4 +1,4 @@
-package com.example.reactive.ws.controller;
+package com.example.reactive.controller;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

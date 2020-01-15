@@ -1,4 +1,4 @@
-package com.example.reactive.ws;
+package com.example.reactive;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.HttpMethod;

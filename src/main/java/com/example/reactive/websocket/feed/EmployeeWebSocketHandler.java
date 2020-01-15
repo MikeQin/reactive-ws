@@ -1,4 +1,4 @@
-package com.example.reactive.ws.websocket.stream;
+package com.example.reactive.websocket.feed;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

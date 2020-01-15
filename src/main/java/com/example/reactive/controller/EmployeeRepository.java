@@ -1,4 +1,4 @@
-package com.example.reactive.ws.controller;
+package com.example.reactive.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Repository;

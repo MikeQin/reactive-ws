@@ -1,4 +1,4 @@
-package com.example.reactive.ws.websocket.pubsub;
+package com.example.reactive.websocket.emit;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;

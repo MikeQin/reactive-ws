@@ -1,4 +1,4 @@
-package com.example.reactive.ws;
+package com.example.reactive;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.MediaType;

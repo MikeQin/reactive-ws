@@ -1,4 +1,4 @@
-package com.example.reactive.ws.websocket.stream;
+package com.example.reactive.websocket.feed;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -13,7 +13,7 @@ import java.util.Map;
 
 @Configuration
 @EnableWebFlux
-public class EmployeeConfig {
+public class EmployeeWebSocketConfig {
 
   @Bean
   public HandlerMapping handlerMapping() {

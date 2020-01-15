@@ -83,7 +83,7 @@ public class EmployeeWebClient {
 ### WebFlux Using Reactive WebSocket
 
 WebSocket Endpoint:
-```
+```html
 ws://localhost:8080/employee-feed
 ```
 
@@ -91,7 +91,7 @@ Java Code:
 ```java
 @Configuration
 @EnableWebFlux
-public class EmployeeConfig {
+public class EmployeeWebSocketConfig {
 
   @Bean
   public HandlerMapping handlerMapping() {
